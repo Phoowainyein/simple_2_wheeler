@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/phoo/toni_aaltonen/devel/include/**",
+        "/home/phoo/toni_aaltonen/src/robot_localization/include/**",
+        "/home/phoo/toni_aaltonen/src/tf2_exercise/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
